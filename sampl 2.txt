@@ -1,0 +1,24 @@
+# This is the heading 1
+
+## This is heading 2 
+
+heading 2
+---------------
+
+**bold**
+*italics*
+
+++bold++
++italics+
+
+--bold--
+-italics-
+
+breathrough line
+---------------------------------------------------------------
+
+> Blockquote
+
+Ich lebe Deutsch  
+Ich mag die suppe das ist klar und heibe  
+
