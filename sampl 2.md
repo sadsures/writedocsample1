@@ -8,11 +8,12 @@ heading 2
 **bold**
 *italics*
 
-++bold++
-+italics+
+++This is list item 1++
+++This is list item 2++
 
---bold--
--italics-
+
+__bold__
+_italics_
 
 breathrough line
 ---------------------------------------------------------------
@@ -21,4 +22,9 @@ breathrough line
 
 Ich lebe Deutsch  
 Ich mag die suppe das ist klar und heibe  
+
+I am adding an image [image](/path.jpg "secenary")
+[image][id]
+[id]: /path/jpg "scenery"
+
 
