@@ -8,8 +8,9 @@ heading 2
 **bold**
 *italics*
 
-++This is list item 1++
-++This is list item 2++
++ This is list item 1 +
++ This is list item 2 +
+++ This is list item 2 ++
 
 
 __bold__
